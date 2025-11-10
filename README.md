@@ -4,6 +4,7 @@
 **Materia:** Programación Móvil  
 **Correo:** mendoza.erick06@outlook.com  
 
+
 ---
 
 ## Descripción del Proyecto
@@ -30,6 +31,27 @@ Los datos se visualizan a través de distintas pantallas con adaptadores persona
 - **Diseño de interfaz:** XML  
 - **Gestión de listas:** Adaptadores personalizados (`Adapter`)  
 - **Arquitectura:** Múltiples actividades conectadas mediante `Intent`  
+
+---
+
+## Capturas de Pantalla
+
+<p align="center">
+  <b>Listado de Competencias</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Listado de Equipos</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Listado de Jugadores</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a3d3c88-df21-43f3-9f9f-c34e1443bf15" alt="Listado de Competencias" width="200"/>
+  <img src="https://github.com/user-attachments/assets/6215e679-5a8c-408e-bc52-2a0e397d23d6" alt="Listado de Equipos" width="200"/>
+  <img src="https://github.com/user-attachments/assets/05c3971d-eec1-4c68-bd34-c62f7cb6dd79" alt="Listado de Jugadores" width="200"/>
+</p>
+
+
+
+
+
 
 ---
 
@@ -62,3 +84,5 @@ app/
     │   ├── item_jugador.xml
     │   └── item_teams_competencia.xml
     └── drawable/
+
+
